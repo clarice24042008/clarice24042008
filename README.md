@@ -1,4 +1,4 @@
-## Hi there 👋
+## boas vindas ao meu perfil 👋
 
 <!--
 **clarice24042008/clarice24042008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+meu nome é clarice silva 
+- estou estudando na alura
+
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+## voce pode entrar em contato comigo 
+
+00001147705380sp@al.educacao.sp.gov.br
+
+
